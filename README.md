@@ -1,4 +1,4 @@
 qreadbook-qt5
 =============
 
-port old qreadbook project to qt5
+Port old qreadbook project(http://code.google.com/p/qreadbook/) to qt5
